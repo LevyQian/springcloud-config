@@ -1,5 +1,2 @@
 config:
   info: "master branch,springcloud-config/config-dev.yml version=x7"
-  
-server1:
-  port: 10009
